@@ -6,7 +6,7 @@ Its a ecommerce web application  based on node js and mongo db.
 
 Install Node js, mongodb and postman to your system.
 
-a)Open server and install dependence for typing “npm install”
+a)Open server and install dependence for typing “npm install” and do the same in client frontend as well in dashboard to install the dependencies.
 
 b) .env file is there in server folder and paste this variables 
 
