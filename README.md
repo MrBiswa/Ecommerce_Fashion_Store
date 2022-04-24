@@ -1,6 +1,5 @@
 # Ecommerce_Fashion_Store
 
-# Ecommerce-Fashion-Store
 Its a ecommerce web application  based on node js and mongo db.
 
 #Steps to run the application
@@ -29,5 +28,9 @@ e) Open postman choose POST method and run http://localhost:5000/api/import/user
 
 j) Now you can see products by run http://localhost:5000/api/products Method is GET
 
-To run admin site, go to dashboard folder terminal and type "npm start",,wait for sometime it will automatically run in localhost.
+To run admin site, go to dashboard folder terminal and type "npm start",wait for sometime it will automatically run in localhost.
 
+
+For Admin login username- admin@example.com
+
+Password-123456
